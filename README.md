@@ -27,8 +27,8 @@ Execute Django admin and create details for 10 books
 
 
 ## OUTPUT
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d27247aa-defc-48a9-9cbd-2d5356c8c09d" />
 
-Include the screenshot of your admin page.
 
 
 ## RESULT
