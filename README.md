@@ -27,8 +27,9 @@ Execute Django admin and create details for 10 books
 
 
 ## OUTPUT
+![alt text](<Screenshot 2025-11-24 141658-2.png>)
 
-Include the screenshot of your admin page.
+
 
 
 ## RESULT
